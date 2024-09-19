@@ -17,42 +17,69 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am Cao Yixin, male, a tenure-track professor at School of Computer Science, Fudan University. I obtained Ph.D. from KEG at Tsinghua University, advised by Prof. Li Juanzi. I have held positions as a research fellow, research assistant professor, and assistant professor at the National University of Singapore, Nanyang Technological University, and Singapore Management University. I am a recipient of the National Youth Talent Program and the Shanghai Leading Talent Program. My research areas include natural language processing, knowledge engineering, and multimodal information processing. I have published over 60 papers at international renowned conferences and journals, with more than 6,000 citations on Google Scholar. My research achievements have been awarded the Best Paper/Nomination at two international conferences. I have received Lee Kong Chian Fellowship, Google South Asia & Southeast Asia Awards, and the AI2000 Most Influential Scholar honorable mention. I also serve as the demonstration program chair or area chair for multiple international conferences, and as a reviewer for international journals.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉 Four/Five papers are  accepted by ACL main conference/Findings, respectively!
+- *2023.10*: &nbsp;🎉🎉 Two/Four papers are  accepted by EMNLP main conference/Findings, respectively!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559), Yubo Ma, **Yixin Cao**, Yong Ching Hong, Aixin Sun. **EMNLP 2023 (Findings)**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* AI2000 most influential scholar honorable mention
+- *2023* Google South Asia & Southeast Asia Awards
+- *2023* SMU Lee Kong Chian Fellowship (2023-2025)
+- *2023* ACL best paper nomination
+- *2023* Frontier Science Award, International Foundation Science Conference
+- *2020* WWW20/KDD20 most influential paper by PaperDigest
+- *2019* WWW19 most influential paper by PaperDigest
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations and Working
+- *2024.07 - now*, tenure-track Professor, School of Computer Science, Fudan University.
+- *2023.01 - 2024.07*, Assistant Professor, School of Computing and Information Systems, Singapore Management University.
+- *2020.10 - 2022.12*, Research Assistant Professor, School of Computer Science and Engineering, Nanyang Technological University. 
+- *2018.07 - 2020.12*, Research Fellow, School of Computing, National University of Singapore. 
+- *2013.09 - 2018.07*, PhD, School of Computer Science, Tsinghua University. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- From Evaluation To Understanding: Auto-benchmarking (Multi-modal) LLMs and Beyond
+- - The Chinese University of Hong Kong
+  - The Web Conference (WWW) 2024 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Trustworthy NLP with knowledge guidance.
+- - Renmin University, USTC, Fudan University
+  - WSDM 2023 
+
+- Multi-modal Event Knowledge Graph
+- - CCKS 2022 invited talk
+  - Tsinghua University 
+
+- Introduction to Knowledge Graph
+- - MITB AI seminar
+
+- Self-guided Universal Knowledge Graph Construction.
+- - HIT, Oct, 2021
+  - UIUC, Sep, 2021
+  - SMU, Aug, 2021
+
+- Domain Specific Knowledge Graph Construction: Towards Wellness Applications
+- - NExT++ workshop, NUS, Singapore, 2019.
+  - 6Estates, Singapore, 2018.
+
+# 💻 Academic Services
+- *2024*,
+- - Program Chair@ACL system demo track,
+- - Area Chair@(ACL, EMNLP, COLING, ARR)
+  - Local organizer@(WWW, EMNLP)
+  - Reviewer@(NeurIPS, ICLR, COLM, ICML)
+- *2023*,
+- - Area Chair@(ACL, EMNLP, COLING, ARR, AACL, CCL)
+  - Local organizer@WSDM
+  - Reviewer@(NeurIPS, ICLR, COLM, ICML)
+- *2022*,
+- - Senior Area Chair@(AACL)
+  - Area Chair@(ACL, EMNLP, COLING, ARR, AACL, CCL)
+  - Reviewer@(NeurIPS, ICLR, COLM, ICML)
