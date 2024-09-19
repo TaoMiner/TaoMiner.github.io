@@ -133,7 +133,7 @@ I am Cao Yixin, male, a tenure-track professor at School of Computer Science, Fu
 - *2020* WWW20/KDD20 most influential paper by PaperDigest
 - *2019* WWW19 most influential paper by PaperDigest
 
-# 📖 Educations and Working
+# 📖 Experience
 - *2024.07 - now*, tenure-track Professor, School of Computer Science, Fudan University.
 - *2023.01 - 2024.07*, Assistant Professor, School of Computing and Information Systems, Singapore Management University.
 - *2020.10 - 2022.12*, Research Assistant Professor, School of Computer Science and Engineering, Nanyang Technological University. 
