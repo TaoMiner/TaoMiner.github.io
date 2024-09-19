@@ -121,8 +121,8 @@ I am Cao Yixin, male, a tenure-track professor at School of Computer Science, Fu
 - Bridge text and knowledge by learning multi-prototype entity mention embedding. **Yixin Cao**, Lifu Huang, Heng Ji, Xu Chen, Juanzi Li. ACL2017.
 
 ## 2015
-Target Detection and Knowledge Learning for Domain Restricted Question Answering. Mengdi Zhang, Tao Huang, **Yixin Cao**, Lei Hou. NLPCC2015.
-Name list only? target entity disambiguation in short texts. **Yixin Cao**, Juanzi Li, Xiaofei Guo, Shuanhu Bai, Heng Ji, Jie Tang. EMNLP2015.
+- Target Detection and Knowledge Learning for Domain Restricted Question Answering. Mengdi Zhang, Tao Huang, **Yixin Cao**, Lei Hou. NLPCC2015.
+- Name list only? target entity disambiguation in short texts. **Yixin Cao**, Juanzi Li, Xiaofei Guo, Shuanhu Bai, Heng Ji, Jie Tang. EMNLP2015.
 
 # 🎖 Honors and Awards
 - *2024* AI2000 most influential scholar honorable mention
