@@ -21,18 +21,24 @@ I am Cao Yixin, male, a tenure-track professor at School of Computer Science, Fu
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 Four/Five papers are  accepted by ACL main conference/Findings, respectively!
-- *2023.10*: &nbsp;🎉🎉 Two/Four papers are  accepted by EMNLP main conference/Findings, respectively!
+- *2024.09*: &nbsp;🎉🎉 Two/Four papers are accepted by EMNLP main conference/Findings, respectively!
+- *2024.05*: &nbsp;🎉🎉 Four/Five papers are accepted by ACL main conference/Findings, respectively!
+- *2023.10*: &nbsp;🎉🎉 Two/Four papers are accepted by EMNLP main conference/Findings, respectively!
 
 # 📝 Publications 
 
-## 2024
+## Arxiv
 - Automating Dataset Updates Towards Reliable and Timely Evaluation of Large Language Models. Jiahao Ying, **Yixin Cao**, Bo Wang, Wei Tang, Yizhe Yang, Shuicheng Yan. Arxiv.
 - MMLONGBENCH-DOC: Benchmarking Long-context Document Understanding with Visualizations. Yubo Ma, Yuhang Zang, Liangyu Chen, Meiqi Chen, Yizhu Jiao, Xinze Li, Xinyuan Lu, Ziyu Liu, Yan Ma, Xiaoyi Dong, Pan Zhang, Liangming Pan, Yu-Gang Jiang, Jiaqi Wang, **Yixin Cao**, Aixin Sun. Arxiv.
 - Meaningful Learning: Advancing Abstract Reasoning in Large Language Models via Generic Fact Guidance. Kai Xiong, Xiao Ding, Ting Liu, Bing Qin, Dongliang Xu, Qing Yang, Hongtao Liu, **Yixin Cao**. Arxiv.
-- LLMs-as-Instructors: Learning from Errors Toward Automating Model Improvement. Jiahao Ying, Mingbao Lin, **Yixin Cao**, Wei Tang, Bo Wang, Qianru Sun, Xuanjing Huang, Shuicheng Yan. Arxiv.
-- SciAgent: Tool-augmented Language Models for Scientific Reasoning. Yubo Ma, Zhibin Gou, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, **Yixin Cao**, Aixin Sun, Hany Awadalla, Weizhu Chen. Arxiv.
-- LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing. Arxiv.
+
+## 2024
+- MORE: Evaluating and Quantifying Unimodal Biases in Multimodal Large Language Models through a Causal Lens. Meiqi Chen, **Yixin Cao**, Yan Zhang, Chaochao Lu. EMNLP Findings 2024. 
+- LLMs-as-Instructors: Learning from Errors Toward Automating Model Improvement. Jiahao Ying, Mingbao Lin, **Yixin Cao**, Wei Tang, Bo Wang, Qianru Sun, Xuanjing Huang, Shuicheng Yan. EMNLP Findings 2024.
+- Navigating the Nuances: A Fine-grained Evaluation of Vision-Language Navigation. Zehao Wang, Minye Wu, **Yixin Cao**, Yubo Ma, Meiqi Chen, Tinne Tuytelaars. EMNLP Findings 2024.
+- QRMeM: Unleash the Length Limitation through Question then Reflection Memory Mechanism. Bo Wang, Heyan Huang, **Yixin Cao**, Jiahao Ying, Wei Tang, Chong Feng. EMNLP Findings 2024.
+- SciAgent: Tool-augmented Language Models for Scientific Reasoning. Yubo Ma, Zhibin Gou, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, **Yixin Cao**, Aixin Sun, Hany Awadalla, Weizhu Chen. EMNLP 2024.
+- LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing. EMNLP 2024.
 - Analyzing Temporal Complex Events with Large Language Models? A Benchmark towards Temporal, Long Context Understanding. Zhihan Zhang, **Yixin Cao**, Chenchen Ye, Yunshan Ma, Lizi Liao, Tat-Seng Chua. ACL 2024.
 - Intuitive or Dependent? Investigating LLMs' Behavior Style to Conflicting Prompts. Jiahao Ying, **Yixin Cao**, Kai Xiong, Yidong He, Long Cui, Yongbin Liu. ACL 2024.
 - Planning Like Human: A Dual-process Framework for Dialogue Planning. Tao He, Lizi Liao, **Yixin Cao**, Yuanxing Liu, Ming Liu, Zerui Chen, Bing Qin. ACL 2024.
