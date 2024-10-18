@@ -73,6 +73,8 @@ I am Cao Yixin, male, a tenure-track professor at School of Computer Science, Fu
 - Take a Break in the Middle: Investigating Subgoals towards Hierarhical Script Generation. Xinze Li, **Yixin Cao**, Muhao Chen and Aixin Sun. Findings of ACL2023.
 - Few-shot Event Detection: An Empirical Study and a Unified View. Yubo Ma, Zehao Wang, **Yixin Cao** and Aixin Sun. ACL2023.
 - Knowledge Graph Embedding by Normalizing Flows. Changyi Xiao, Xiangnan He, **Yixin Cao**. AAAI2023
+- To be or not to be? an exploration of continuously controllable prompt engineering. Yuhan Sun, Mukai Li, **Yixin Cao**, Kun Wang, Wenxiao Wang, Xingyu Zeng, Rui Zhao. Arxiv.
+
 
 ## 2022
 - R2F: A General Retrieval, Reading and Fusion Framework for Document-level Natural Language Inference. Hao Wang, **Yixin Cao**, Yangguang Li, Zhen Huang, Kun Wang, Jing Shao. EMNLP2022
@@ -85,6 +87,7 @@ I am Cao Yixin, male, a tenure-track professor at School of Computer Science, Fu
 - Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach. Xin Lv, Yankai Lin, **Yixin Cao**, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, Jie Zhou. ACL2022 Finding.
 - Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction. Yubo Ma† , Zehao Wang† , **Yixin Cao**, Mukai Li, Meiqi Chen, Kun Wang, Jing Shao. ACL2022.
 - Debiasing NLU Models via Causal Intervention and Counterfactual Reasoning. Bing Tian, **Yixin Cao**, Yong Zhang, Chunxiao Xing. AAAI2022.
+- Training Free Graph Neural Networks for Graph Matching. Zhiyuan Liu, **Yixin Cao**, Fuli Feng, Xiang Wang, Jie Tang, Kenji Kawaguchi, Tat-Seng Chua. Arxiv.
 
 ## 2021
 - Missing Data Imputation for Solar Yield Prediction using Temporal Multi-Modal Variational Auto-Encoder. Meng Shen, Huaizheng Zhang, **Yixin Cao**, Fan Yang, Yonggang Wen. MM2021.
