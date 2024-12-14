@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/ab603df5-31e9-42ba-b633-4448efa4b6a3)---
 permalink: /
 title: ""
 excerpt: ""
@@ -21,12 +21,17 @@ I am Cao Yixin, male, a tenure-track professor at School of Computer Science, Fu
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI2025!
 - *2024.09*: &nbsp;🎉🎉 One/Three papers are accepted by NeurIPs spotlight/poster, respectively!
 - *2024.09*: &nbsp;🎉🎉 Two/Four papers are accepted by EMNLP main conference/Findings, respectively!
 - *2024.05*: &nbsp;🎉🎉 Four/Five papers are accepted by ACL main conference/Findings, respectively!
 - *2023.10*: &nbsp;🎉🎉 Two/Four papers are accepted by EMNLP main conference/Findings, respectively!
 
 # 📝 Publications 
+
+## 2024
+- Simulation-Free Hierarchical Latent Policy Planning for Proactive Dialogues. Tao He, Lizi Liao, **Yixin Cao**, Yuanxing Liu, Yiheng Sun, Zerui Chen, Ming Liu, Bing Qin. AAAI2025.
+- S^3cMath: Spontaneous Step-level Self-correction Makes Large Language Models Better Mathematical Reasoners. Yuchen Yan, Jin Jiang, Yang Liu, **Yixin Cao**, Xin Xu, Mengdi Zhang, Xunliang Cai, Jian Shao. AAAI2025.
 
 ## 2024
 - Automating Dataset Updates Towards Reliable and Timely Evaluation of Large Language Models. Jiahao Ying, **Yixin Cao**, Bo Wang, Wei Tang, Yizhe Yang, Shuicheng Yan. NeurIPS2024.
@@ -150,6 +155,16 @@ I am Cao Yixin, male, a tenure-track professor at School of Computer Science, Fu
 - *2013.09 - 2018.07*, PhD, School of Computer Science, Tsinghua University. 
 
 # 💬 Invited Talks
+- From Evaluation To Evolvement: Auto-benchmarking Techniques in the Era of LLMs
+- - Shanghai AI Lab Annual conference
+  - CCKS2024, CCF China Software Conference2024
+  - Huawei Singapore Sentosa sumit2024
+  - 
+- Towards complex reasoning by meaningful learning with symbolic & neuron systems
+- - NLPCC2024
+  - COLING2025
+  - IAS BU AI Young Scientist Forum2024
+  - 
 - From Evaluation To Understanding: Auto-benchmarking (Multi-modal) LLMs and Beyond
 - - The Chinese University of Hong Kong
   - The Web Conference (WWW) 2024 
