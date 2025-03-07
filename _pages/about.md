@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/b9d9bf4c-b3ef-4992-968f-bbbaf95f57a2)---
 permalink: /
 title: ""
 excerpt: ""
@@ -21,6 +21,7 @@ I am Cao Yixin, male, a tenure-track professor at School of Computer Science, Fu
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR2025!
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI2025!
 - *2024.09*: &nbsp;🎉🎉 One/Three papers are accepted by NeurIPs spotlight/poster, respectively!
 - *2024.09*: &nbsp;🎉🎉 Two/Four papers are accepted by EMNLP main conference/Findings, respectively!
@@ -29,7 +30,9 @@ I am Cao Yixin, male, a tenure-track professor at School of Computer Science, Fu
 
 # 📝 Publications 
 
-## 2024
+## 2025
+- RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style. Yantao Liu, Zijun Yao, Rui Min, **Yixin Cao**, Lei Hou, Juanzi Li. ICLR2025. (Oral)
+- Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs. Haowen Pan, Xiaozhi Wang, **Yixin Cao**, Zenglin Shi, Xun Yang*, Juanzi Li, Meng Wang. ICLR2025. 
 - Simulation-Free Hierarchical Latent Policy Planning for Proactive Dialogues. Tao He, Lizi Liao, **Yixin Cao**, Yuanxing Liu, Yiheng Sun, Zerui Chen, Ming Liu, Bing Qin. AAAI2025.
 - S^3cMath: Spontaneous Step-level Self-correction Makes Large Language Models Better Mathematical Reasoners. Yuchen Yan, Jin Jiang, Yang Liu, **Yixin Cao**, Xin Xu, Mengdi Zhang, Xunliang Cai, Jian Shao. AAAI2025.
 
