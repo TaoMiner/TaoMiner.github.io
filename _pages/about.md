@@ -50,7 +50,7 @@ I am Cao Yixin, male, a tenure-track professor at School of Computer Science, Fu
 - Analyzing Temporal Complex Events with Large Language Models? A Benchmark towards Temporal, Long Context Understanding. Zhihan Zhang, **Yixin Cao**, Chenchen Ye, Yunshan Ma, Lizi Liao, Tat-Seng Chua. ACL 2024.
 - Intuitive or Dependent? Investigating LLMs' Behavior Style to Conflicting Prompts. Jiahao Ying, **Yixin Cao**, Kai Xiong, Yidong He, Long Cui, Yongbin Liu. ACL 2024.
 - Planning Like Human: A Dual-process Framework for Dialogue Planning. Tao He, Lizi Liao, **Yixin Cao**, Yuanxing Liu, Ming Liu, Zerui Chen, Bing Qin. ACL 2024.
-- Improving Large Language Models in Event Relation Logical Prediction. Meiqi Chen, Yubo Ma, Kaitao Song, **Yixin Cao**, Yan Zhang, Dongsheng Li. ACL 2024.
+- Improving Large Language Models in Event Relation Logical Prediction. Meiqi Chen, Yubo Ma, Kaitao Song, **Yixin Cao**, Yan Zhang, Dongsheng Li. ACL 2024. (Oral)
 - Complex Logical Query Answering by Calibrating Knowledge Graph Completion Models. Changyi Xiao, **Yixin Cao**. ACL Findings 2024.
 - A + B: A General Generator-Reader Framework for Optimizing LLMs to Unleash Synergy Potential. Wei Tang, **Yixin Cao**, Jiahao Ying, Bo Wang, Yuyue Zhao, Yong Liao, Pengyuan Zhou. ACL Findings 2024.
 - Finding and Editing Multi-Modal Neurons in Pre-Trained Transformers. Haowen Pan, **Yixin Cao**, Xiaozhi Wang, Xun Yang, Meng Wang. ACL Findings 2024.
