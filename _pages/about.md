@@ -31,8 +31,8 @@ I am Cao Yixin, a professor at School of Computer Science, Fudan University. I o
 # 📝 Publications 
 
 ## ArXiv
-- Toward Generalizable Evaluation in the LLM Era: A Survey Beyond Benchmarks. Yixin Cao, Shibo Hong, Xinze Li, Jiahao Ying, Yubo Ma, Haiyuan Liang, Yantao Liu, Zijun Yao, Xiaozhi Wang, et. al. [Paper](https://arxiv.org/abs/2504.18838). 
-- Revisiting LLM Evaluation through Mechanism Interpretability: a New Metric and Model Utility Law. Yixin Cao, Jiahao Ying, Yaoning Wang, Xipeng Qiu, Xuanjing Huang, Yugang Jiang. [Paper](https://arxiv.org/abs/2504.07440). 
+- Toward **Generalizable Evaluation** in the LLM Era: A Survey Beyond Benchmarks. Yixin Cao, Shibo Hong, Xinze Li, Jiahao Ying, Yubo Ma, Haiyuan Liang, Yantao Liu, Zijun Yao, Xiaozhi Wang, et. al. [Paper](https://arxiv.org/abs/2504.18838). 
+- Revisiting LLM Evaluation through Mechanism Interpretability: a New Metric and **Model Utility Law**. Yixin Cao, Jiahao Ying, Yaoning Wang, Xipeng Qiu, Xuanjing Huang, Yugang Jiang. [Paper](https://arxiv.org/abs/2504.07440). 
 
 ## 2025
 - RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style. Yantao Liu, Zijun Yao, Rui Min, **Yixin Cao**, Lei Hou, Juanzi Li. ICLR2025. (Oral)
