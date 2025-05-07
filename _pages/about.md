@@ -30,7 +30,8 @@ I am Cao Yixin, a professor at School of Computer Science, Fudan University. I o
 
 # 📝 Publications 
 
-## ArXiv (My recent talk about these two papers is attached below!)
+## ArXiv 
+- (My recent talk about these two papers is attached below!)
 - Toward **Generalizable Evaluation** in the LLM Era: A Survey Beyond Benchmarks. Yixin Cao, Shibo Hong, Xinze Li, Jiahao Ying, Yubo Ma, Haiyuan Liang, Yantao Liu, Zijun Yao, Xiaozhi Wang, et. al. [Paper](https://arxiv.org/abs/2504.18838). 
 - Revisiting LLM Evaluation through Mechanism Interpretability: a New Metric and **Model Utility Law**. Yixin Cao, Jiahao Ying, Yaoning Wang, Xipeng Qiu, Xuanjing Huang, Yugang Jiang. [Paper](https://arxiv.org/abs/2504.07440). 
 
@@ -164,7 +165,7 @@ I am Cao Yixin, a professor at School of Computer Science, Fudan University. I o
 # 💬 Invited Talks
 
 - Beyond Benchmarks: the path towards generalizable evaluation
-- - KU Leuven [video](https://kuleuven-my.sharepoint.com/personal/zehao_wang_kuleuven_be/_layouts/15/stream.aspx?id=%2Fpersonal%2Fzehao%5Fwang%5Fkuleuven%5Fbe%2FDocuments%2FRecordings%2FInvitation%5F%20Meet%2DThe%2DJury%20Seminar%20with%20Prof%2E%20Parisa%20Kordjamshidi%2C%20Prof%2E%20Yixin%20Cao%2C%20and%20Prof%2E%20Jos%C3%A9%20Oramas%2D20250430%5F100553%2D%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E256d4c1b%2D8401%2D45d3%2Dacda%2Dcdf0c878e708)
+- - KU Leuven [video start@43:00](https://kuleuven-my.sharepoint.com/personal/zehao_wang_kuleuven_be/_layouts/15/stream.aspx?id=%2Fpersonal%2Fzehao%5Fwang%5Fkuleuven%5Fbe%2FDocuments%2FRecordings%2FInvitation%5F%20Meet%2DThe%2DJury%20Seminar%20with%20Prof%2E%20Parisa%20Kordjamshidi%2C%20Prof%2E%20Yixin%20Cao%2C%20and%20Prof%2E%20Jos%C3%A9%20Oramas%2D20250430%5F100553%2D%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E256d4c1b%2D8401%2D45d3%2Dacda%2Dcdf0c878e708)
 
 - From Evaluation To Evolvement: Auto-benchmarking Techniques in the Era of LLMs
 - - Shanghai AI Lab Annual conference
