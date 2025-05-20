@@ -21,6 +21,7 @@ I am Cao Yixin, a professor at School of Computer Science, Fudan University. I o
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Four/four papers are accepted by ACL2025/Findings!
 - *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR2025!
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI2025!
 - *2024.09*: &nbsp;🎉🎉 One/Three papers are accepted by NeurIPs spotlight/poster, respectively!
@@ -36,6 +37,14 @@ I am Cao Yixin, a professor at School of Computer Science, Fudan University. I o
 - **Model Utility Law**: Evaluating LLMs beyond Performance through Mechanism Interpretable Metric. Yixin Cao, Jiahao Ying, Yaoning Wang, Xipeng Qiu, Xuanjing Huang, Yugang Jiang. [Paper](https://arxiv.org/abs/2504.07440). 
 
 ## 2025
+- EvoWiki: Evaluating LLMs on Evolving Knowledge. Wei Tang, **Yixin Cao**, Yang Deng, Jiahao Ying, Bo Wang, Yizhe Yang, Yuyue Zhao, Qi Zhang, Xuanjing Huang, Yu-Gang Jiang, Yong Liao. ACL2025.
+- Com^2: A Causal-Guided Benchmark for Exploring Complex Commonsense Reasoning in Large Language Models. Kai Xiong, Xiao Ding, **Yixin Cao**, Yuxiong Yan, Li Du, Yufei Zhang, Jinglong Gao, Jiaqian Liu, Bing Qin, Ting Liu. ACL2025.
+- Disentangling Language Medium and Culture Context for Evaluating Multilingual Large Language Models. Jiahao Ying, Wei Tang, Yiran Zhao, **Yixin Cao**, Yu Rong, Wenxuan Zhang. ACL2025.
+- LogicPro: Improving Complex Logical Reasoning via Program-Guided Learning. Jin Jiang, Yuchen Yan, Yang Liu, Jianing Wang, Shuai Peng, Xunliang Cai, **Yixin Cao**, Mengdi Zhang, Liangcai Gao. ACL2025.
+- XFinBench: Benchmarking LLMs in Complex Financial Problem Solving and Reasoning. Zhihan Zhang, Yixin Cao, Lizi Liao. ACL2025 Findings.
+- Breaking the Reasoning Barrier A Survey on LLM Complex Reasoning through the Lens of Self-Evolution. Tao He, Hao Li, Jingchang Chen, Runxuan Liu, **Yixin Cao**, Lizi Liao, Zihao Zheng, Zheng Chu, Jiafeng Liang, Ming Liu, Bing Qin. ACL2025 Findings.
+- Towards Storage-Efficient Visual Document Retrieval: An Empirical Study on Reducing Patch-Level Embeddings. Yubo Ma, Jinsong Li, Yuhang Zang, Xiaobao Wu, Xiaoyi Dong, Pan Zhang, Yuhang Cao, Haodong Duan, Jiaqi Wang, Yixin Cao, Aixin Sun. ACL2025 Findings.
+- Are LLMs Rational Investors? A Study on the Financial Bias in LLMs. Yuhang Zhou, Yuchen Ni, Zhiheng Xi, Zhangyue Yin, Yu He, Gan Yunhui, Xiang Liu, Zhang Jian, Sen Liu, Xipeng Qiu, Yixin Cao, Guangnan Ye, Hongfeng Chai. ACL2025 Findings.
 - RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style. Yantao Liu, Zijun Yao, Rui Min, **Yixin Cao**, Lei Hou, Juanzi Li. ICLR2025. (Oral)
 - Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs. Haowen Pan, Xiaozhi Wang, **Yixin Cao**, Zenglin Shi, Xun Yang*, Juanzi Li, Meng Wang. ICLR2025. 
 - Simulation-Free Hierarchical Latent Policy Planning for Proactive Dialogues. Tao He, Lizi Liao, **Yixin Cao**, Yuanxing Liu, Yiheng Sun, Zerui Chen, Ming Liu, Bing Qin. AAAI2025.
