@@ -175,6 +175,7 @@ I am Cao Yixin, a professor at School of Computer Science, Fudan University. I o
 
 - Beyond Benchmarks: the path towards generalizable evaluation
 - - KU Leuven [video start@43:00](https://kuleuven-my.sharepoint.com/personal/zehao_wang_kuleuven_be/_layouts/15/stream.aspx?id=%2Fpersonal%2Fzehao%5Fwang%5Fkuleuven%5Fbe%2FDocuments%2FRecordings%2FInvitation%5F%20Meet%2DThe%2DJury%20Seminar%20with%20Prof%2E%20Parisa%20Kordjamshidi%2C%20Prof%2E%20Yixin%20Cao%2C%20and%20Prof%2E%20Jos%C3%A9%20Oramas%2D20250430%5F100553%2D%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E256d4c1b%2D8401%2D45d3%2Dacda%2Dcdf0c878e708)
+  - AITIME [中文视频](https://www.bilibili.com/video/BV1ULJBzsE1f/?vd_source=858d88d3660cb87fd63590287f6a2499)
 
 - From Evaluation To Evolvement: Auto-benchmarking Techniques in the Era of LLMs
 - - Shanghai AI Lab Annual conference
