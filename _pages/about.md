@@ -34,7 +34,18 @@ I am Cao Yixin, a professor at Shanghai Innovation Institute, as well as Institu
 ## ArXiv 
 - (My recent talk about these two papers is attached below!)
 - Toward **Generalizable Evaluation** in the LLM Era: A Survey Beyond Benchmarks. Yixin Cao, Shibo Hong, Xinze Li, Jiahao Ying, Yubo Ma, Haiyuan Liang, Yantao Liu, Zijun Yao, Xiaozhi Wang, et. al. [Paper](https://arxiv.org/abs/2504.18838). 
-- **Model Utility Law**: Evaluating LLMs beyond Performance through Mechanism Interpretable Metric. Yixin Cao, Jiahao Ying, Yaoning Wang, Xipeng Qiu, Xuanjing Huang, Yugang Jiang. [Paper](https://arxiv.org/abs/2504.07440). 
+- **Model Utility Law**: Evaluating LLMs beyond Performance through Mechanism Interpretable Metric. Yixin Cao, Jiahao Ying, Yaoning Wang, Xipeng Qiu, Xuanjing Huang, Yugang Jiang. [Paper](https://arxiv.org/abs/2504.07440).
+- Long or short CoT? Investigating Instance-level Switch of Large Reasoning Models. Ruiqi Zhang, Changyi Xiao, Yixin Cao.
+- EffiEval: Efficient and Generalizable Model Evaluation via Capability Coverage Maximization. Yaoning Wang, Jiahao Ying, Yixin Cao, Yubo Ma, Yugang Jiang.
+- FRABench and UFEval: Unified Fine-grained Evaluation with Task and Aspect Generalization. Shibo Hong, Jiahao Ying, Haiyuan Liang, Mengdi Zhang, Jun Kuang, Jiazheng Zhang, Yixin Cao.
+- Teach2Eval: An Interaction-Driven LLMs Evaluation Method via Teaching Effectiveness. Yuhang Zhou, Xutian Chen, Yixin Cao, Yuchen Ni, Yu He, Siyu Tian, Xiang Liu, Yunwen Chen, Guangnan Ye, Xipeng Qiu, Hongfeng Chai.
+- BNPO: Beta Normalization Policy Optimization. Changyi Xiao, Mengdi Zhang, Yixin Cao.
+- All by Large Language Model Itself. Changyi Xiao, Yixin Cao.
+- Beyond Benchmarks: Understanding Mixture-of-Experts Models through Internal Mechanisms. Jiahao Ying, Mingbao Lin, Qianru Sun, Yixin Cao.
+- Diagnosing and Remedying Knowledge Deficiencies in LLMs via Label-free Curricular Meaningful Learning. Kai Xiong, Xiao Ding, Yixin Cao, Li Du, Jiahao Ying, Yang Zhao, Bing Qin, Ting Liu.
+- Smarter Not Harder: Generative Process Evaluation with Intrinsic-Signal Driving and Ability‑Adaptive Reward Shaping. Tao He, Rongchuan Mu, Lizi Liao, Yixin Cao, Yang Li, Yijia Luo, Weixun Wang, Ming Liu, Bing Qin.
+- Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs. chenkang, Mengdi Zhang, Zhuoka Feng, Yixin Cao.
+- Do LLMs Signal When They’re Right? Evidence from Neuron Agreement. chenkang, Yaoning Wang, Kai Xiong, Zhuoka Feng, Wenhe Sun, Haotian Chen, Yixin Cao.
 
 ## 2025
 - Subgraph-Centric Multi-Agent Reinforcement Learning for Multi-hop Knowledge Graph Reasoning. Tao He,Zerui Chen,Lizi Liao, **Yixin Cao**,Yuanxing Liu,Wei Tang,Xun Mao,Kai Lv,Ming Liu,Bing Qin. TKDE2025.
