@@ -21,6 +21,7 @@ I am Cao Yixin, a professor at Shanghai Innovation Institute, as well as Institu
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS2025!
 - *2025.05*: &nbsp;🎉🎉 Four/four papers are accepted by ACL2025/Findings!
 - *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR2025!
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI2025!
