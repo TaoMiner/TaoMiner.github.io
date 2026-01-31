@@ -52,7 +52,7 @@ I am Cao Yixin, a professor at Shanghai Innovation Institute, as well as Institu
 - EffiEval: Efficient Model Evaluation via Capability Coverage Maximization. Yaoning Wang, Jiahao Ying, Yixin Cao, Yubo Ma, Yu-Gang Jiang.
 - SCALER: Synthetic Scalable Adaptive Learning Environment for Reasoning. Caijun Xu, Changyi Xiao, Zhongyuan Peng, Xinrun Wang, Yixin Cao.
 - Thinking Traps in Long Chain-of-Thought: A Measurable Study and Trap-Aware Adaptive Restart. chenkang, Fan Yu, Junjie Nian, SIHAN ZHAO, Zhuoka Feng, Zijun Yao, wang heng, Yu Minshen, Yixin Cao.
-<!-- 以下内容暂时隐藏：
+[//]: # (隐藏开始)
 - CoDiQ: Test-Time Scaling for Controllable Difficult Question Generation. Zhongyuan Peng, Caijun Xu, Changyi Xiao, Shibo Hong, Ge Zhang, Wenhao Huang, Yixin Cao. %}
 - Reinforcement Learning with Conditional Expectation Reward. Changyi Xiao, Caijun Xu, Yixin Cao.
 - DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model. Shibo Hong, Boxian Ai, Jun Kuang, Wei Wang, FengJiao Chen, Zhongyuan Peng, Chenhao Huang, Yixin Cao.
@@ -64,7 +64,7 @@ I am Cao Yixin, a professor at Shanghai Innovation Institute, as well as Institu
 - CREAT: A Comprehensive Reward Benchmark for Lengthy and Complex Web Agent Trajectories. Kehao Miao, Shijue Huang, Zhaochen Su, Zhitao He, Xinyu Geng, Jipeng Zhang, Yixin Cao, Yi R. Fung.
 - Beyond Literal Translation: Evaluating Cultural Effectiveness in Social Media UGC. Linjuan Wu, Ruiqi Zhang, Xinze Lyu, Ye Guo, Daoxin Zhang, Zhe Xu, Yao Hu, Yixin Cao, Yongliang Shen, Weiming Lu.
 - Instruction-Driven Presentation Generation: Benchmark, Unified Evaluation, and Agent-Based Methods. Bo Zhao, MaoshengPang, Chen Zhang, Yixin Cao, Huan Yang, Wei Ji.
---> 
+[//]: # (隐藏结束)
 
 
 
