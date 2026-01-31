@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Cao Yixin, a professor at Shanghai Innovation Institute, as well as Institute of Trustworthy Embodied AI, Fudan University. I obtained Ph.D. from KEG at Tsinghua University, advised by Prof. Li Juanzi. I have held positions as a research fellow, research assistant professor, and assistant professor at the National University of Singapore, Nanyang Technological University, and Singapore Management University. I am a recipient of the National Youth Talent Program and the Shanghai Leading Talent Program. My research areas include natural language processing, knowledge engineering, and multimodal information processing. I have published over 60 papers at international renowned conferences and journals, with more than 6,000 citations on Google Scholar. My research achievements have been awarded the Best Paper/Nomination at two international conferences. I have received Lee Kong Chian Fellowship, Google South Asia & Southeast Asia Awards, and the AI2000 Most Influential Scholar honorable mention. I also serve as the demonstration program chair or area chair for multiple international conferences, and as a reviewer for international journals.
+I am Cao Yixin, a professor at Shanghai Innovation Institute, as well as Institute of Trustworthy Embodied AI, Fudan University. I obtained Ph.D. from KEG at Tsinghua University, advised by Prof. Li Juanzi. I have held positions as a research fellow, research assistant professor, and assistant professor at the National University of Singapore, Nanyang Technological University, and Singapore Management University. I am a recipient of the National Youth Talent Program and the Shanghai Leading Talent Program. My research areas include natural language processing, knowledge engineering, and multimodal information processing. I have published over 60 papers at international renowned conferences and journals, with more than 11,000 citations on Google Scholar. My research achievements have been awarded the Best Paper/Nomination at two international conferences. I have received Lee Kong Chian Fellowship, Google South Asia & Southeast Asia Awards, and the AI2000 Most Influential Scholar honorable mention. I also serve as the demonstration program chair or area chair for multiple international conferences, and as a reviewer for international journals.
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Four papers are accepted by ICLR2026!
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS2025!
 - *2025.05*: &nbsp;🎉🎉 Four/four papers are accepted by ACL2025/Findings!
 - *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR2025!
@@ -38,8 +39,6 @@ I am Cao Yixin, a professor at Shanghai Innovation Institute, as well as Institu
 - **Model Utility Law**: Evaluating LLMs beyond Performance through Mechanism Interpretable Metric. Yixin Cao, Jiahao Ying, Yaoning Wang, Xipeng Qiu, Xuanjing Huang, Yugang Jiang. [Paper](https://arxiv.org/abs/2504.07440).
 - Long or short CoT? Investigating Instance-level Switch of Large Reasoning Models. Ruiqi Zhang, Changyi Xiao, Yixin Cao.
 - EffiEval: Efficient and Generalizable Model Evaluation via Capability Coverage Maximization. Yaoning Wang, Jiahao Ying, Yixin Cao, Yubo Ma, Yugang Jiang.
-- FRABench and UFEval: Unified Fine-grained Evaluation with Task and Aspect Generalization. Shibo Hong, Jiahao Ying, Haiyuan Liang, Mengdi Zhang, Jun Kuang, Jiazheng Zhang, Yixin Cao.
-- Teach2Eval: An Interaction-Driven LLMs Evaluation Method via Teaching Effectiveness. Yuhang Zhou, Xutian Chen, Yixin Cao, Yuchen Ni, Yu He, Siyu Tian, Xiang Liu, Yunwen Chen, Guangnan Ye, Xipeng Qiu, Hongfeng Chai.
 - BNPO: Beta Normalization Policy Optimization. Changyi Xiao, Mengdi Zhang, Yixin Cao.
 - All by Large Language Model Itself. Changyi Xiao, Yixin Cao.
 - Beyond Benchmarks: Understanding Mixture-of-Experts Models through Internal Mechanisms. Jiahao Ying, Mingbao Lin, Qianru Sun, Yixin Cao.
@@ -47,9 +46,25 @@ I am Cao Yixin, a professor at Shanghai Innovation Institute, as well as Institu
 - Smarter Not Harder: Generative Process Evaluation with Intrinsic-Signal Driving and Ability‑Adaptive Reward Shaping. Tao He, Rongchuan Mu, Lizi Liao, Yixin Cao, Yang Li, Yijia Luo, Weixun Wang, Ming Liu, Bing Qin.
 - Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs. chenkang, Mengdi Zhang, Zhuoka Feng, Yixin Cao.
 - Do LLMs Signal When They’re Right? Evidence from Neuron Agreement. chenkang, Yaoning Wang, Kai Xiong, Zhuoka Feng, Wenhe Sun, Haotian Chen, Yixin Cao.
+- PRISM: Probabilistic Reward Model with Inherent Structural Modeling. Yuhang Zhou, Yixin Cao, Yuchen Ni, Shihan Dou, Xutian Chen, Ge Zhang, Xiang Liu, Guangnan Ye.
+- EMemBench: Interactive Benchmarking of Episodic Memory for VLM Agents. Xinze Li, Ziyue Zhu, Siyuan Liu, Yubo Ma, Yuhang Zang, Yixin Cao, Aixin Sun.
+- Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents. Zeping Li, Hongru WANG, Zhao Yiwen, Guanhua Chen, Yixia Li, Keyang Chen, Yixin Cao, Guangnan Ye, Hongfeng Chai, Mengdi Wang, Zhenfei Yin.
+- What Do LLM Agents Know About Their World? Task2Quiz: A Paradigm for Studying Environment Understanding. Siyuan Liu, Hongbang Yuan, Xinze Li, Ziyue Zhu, Yixin Cao, Yu-Gang Jiang.
+- ARM: Role-Conditioned Neuron Transplantation for Training-Free Generalist LLM Agent Merging. Zhuoka Feng, chenkang, SIHAN ZHAO, Kai Xiong, Yaoning Wang, Yu Minshen, Junjie Nian, Changyi Xiao, Yixin Cao, Yu-Gang Jiang.
+- EffiEval: Efficient Model Evaluation via Capability Coverage Maximization. Yaoning Wang, Jiahao Ying, Yixin Cao, Yubo Ma, Yu-Gang Jiang.
+- SCALER: Synthetic Scalable Adaptive Learning Environment for Reasoning. Caijun Xu, Changyi Xiao, Zhongyuan Peng, Xinrun Wang, Yixin Cao.
+- CREAT: A Comprehensive Reward Benchmark for Lengthy and Complex Web Agent Trajectories. Kehao Miao, Shijue Huang, Zhaochen Su, Zhitao He, Xinyu Geng, Jipeng Zhang, Yixin Cao, Yi R. Fung.
+- RPG: Review-Paper Grounding via Paper-Specificity Scoring for LLMs Review Detection. Jiahao Ying, Mingbao Lin, Qianru Sun, Yixin Cao.
+- Thinking Traps in Long Chain-of-Thought: A Measurable Study and Trap-Aware Adaptive Restart. chenkang, Fan Yu, Junjie Nian, SIHAN ZHAO, Zhuoka Feng, Zijun Yao, wang heng, Yu Minshen, Yixin Cao.
+
+## 2026
+- FRABench and UFEval: Unified Fine-grained Evaluation with Task and Aspect Generalization. Shibo Hong, Jiahao Ying, Haiyuan Liang, Mengdi Zhang, Jun Kuang, Jiazheng Zhang, **Yixin Cao**. ICLR2026.
+- Teach2Eval: An Interaction-Driven LLMs Evaluation Method via Teaching Effectiveness. Yuhang Zhou, Xutian Chen, **Yixin Cao**, Yuchen Ni, Yu He, Siyu Tian, Xiang Liu, Yunwen Chen, Guangnan Ye, Xipeng Qiu, Hongfeng Chai. ICLR2026.
+- Smarter Not Harder: Generative Process Evaluation with Intrinsic-Signal Driving and Ability‑Adaptive Reward Shaping. Tao He, Rongchuan Mu, Lizi Liao, **Yixin Cao**, Yang Li, Yijia Luo, Weixun Wang, Ming Liu, Bing Qin. ICLR2026.
+- Diagnosing and Remedying Knowledge Deficiencies in LLMs via Label-free Curricular Meaningful Learning. Kai Xiong, Xiao Ding, **Yixin Cao**, Li Du, Jiahao Ying, Yang Zhao, Bing Qin, Ting Liu. ICLR2026.
 
 ## 2025
-- Subgraph-Centric Multi-Agent Reinforcement Learning for Multi-hop Knowledge Graph Reasoning. Tao He,Zerui Chen,Lizi Liao, **Yixin Cao**,Yuanxing Liu,Wei Tang,Xun Mao,Kai Lv,Ming Liu,Bing Qin. TKDE2025.
+- Subgraph-Centric Multi-Agent Reinforcement Learning for Multi-hop Knowledge Graph Reasoning. Tao He, Zerui Chen, Lizi Liao, **Yixin Cao**,Yuanxing Liu,Wei Tang,Xun Mao,Kai Lv,Ming Liu,Bing Qin. TKDE2025.
 - MultiHGPT: Multi-Task Heterogeneous Graph Prompt Tuning. Yifan Wang; Yixin Cao; Zeping Li; Bowen Dong; Hongfeng Chai. IPM2025.
 - ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection. Zhihao Sun, Haoran Jiang, Haoran Chen, **Yixin Cao**, Xipeng Qiu, Zuxuan Wu, Yu-Gang Jiang. NeurIPS2025.
 - Learning 3D Anisotropic Noise Distributions Improves Molecular Force Fields. Xixian Liu, Rui Jiao, Zhiyuan Liu, Yurou Liu, Yang Liu, Ziheng Lu, Wenbing Huang, Yang Zhang, **Yixin Cao**. NeurIPS2025.
