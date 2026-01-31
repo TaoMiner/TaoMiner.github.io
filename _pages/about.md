@@ -46,16 +46,23 @@ I am Cao Yixin, a professor at Shanghai Innovation Institute, as well as Institu
 - Smarter Not Harder: Generative Process Evaluation with Intrinsic-Signal Driving and Ability‑Adaptive Reward Shaping. Tao He, Rongchuan Mu, Lizi Liao, Yixin Cao, Yang Li, Yijia Luo, Weixun Wang, Ming Liu, Bing Qin.
 - Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs. chenkang, Mengdi Zhang, Zhuoka Feng, Yixin Cao.
 - Do LLMs Signal When They’re Right? Evidence from Neuron Agreement. chenkang, Yaoning Wang, Kai Xiong, Zhuoka Feng, Wenhe Sun, Haotian Chen, Yixin Cao.
-- PRISM: Probabilistic Reward Model with Inherent Structural Modeling. Yuhang Zhou, Yixin Cao, Yuchen Ni, Shihan Dou, Xutian Chen, Ge Zhang, Xiang Liu, Guangnan Ye.
+% - PRISM: Probabilistic Reward Model with Inherent Structural Modeling. Yuhang Zhou, Yixin Cao, Yuchen Ni, Shihan Dou, Xutian Chen, Ge Zhang, Xiang Liu, Guangnan Ye.
 - EMemBench: Interactive Benchmarking of Episodic Memory for VLM Agents. Xinze Li, Ziyue Zhu, Siyuan Liu, Yubo Ma, Yuhang Zang, Yixin Cao, Aixin Sun.
-- Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents. Zeping Li, Hongru WANG, Zhao Yiwen, Guanhua Chen, Yixia Li, Keyang Chen, Yixin Cao, Guangnan Ye, Hongfeng Chai, Mengdi Wang, Zhenfei Yin.
+% - Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents. Zeping Li, Hongru WANG, Zhao Yiwen, Guanhua Chen, Yixia Li, Keyang Chen, Yixin Cao, Guangnan Ye, Hongfeng Chai, Mengdi Wang, Zhenfei Yin.
 - What Do LLM Agents Know About Their World? Task2Quiz: A Paradigm for Studying Environment Understanding. Siyuan Liu, Hongbang Yuan, Xinze Li, Ziyue Zhu, Yixin Cao, Yu-Gang Jiang.
 - ARM: Role-Conditioned Neuron Transplantation for Training-Free Generalist LLM Agent Merging. Zhuoka Feng, chenkang, SIHAN ZHAO, Kai Xiong, Yaoning Wang, Yu Minshen, Junjie Nian, Changyi Xiao, Yixin Cao, Yu-Gang Jiang.
 - EffiEval: Efficient Model Evaluation via Capability Coverage Maximization. Yaoning Wang, Jiahao Ying, Yixin Cao, Yubo Ma, Yu-Gang Jiang.
 - SCALER: Synthetic Scalable Adaptive Learning Environment for Reasoning. Caijun Xu, Changyi Xiao, Zhongyuan Peng, Xinrun Wang, Yixin Cao.
-- CREAT: A Comprehensive Reward Benchmark for Lengthy and Complex Web Agent Trajectories. Kehao Miao, Shijue Huang, Zhaochen Su, Zhitao He, Xinyu Geng, Jipeng Zhang, Yixin Cao, Yi R. Fung.
-- RPG: Review-Paper Grounding via Paper-Specificity Scoring for LLMs Review Detection. Jiahao Ying, Mingbao Lin, Qianru Sun, Yixin Cao.
+% - CREAT: A Comprehensive Reward Benchmark for Lengthy and Complex Web Agent Trajectories. Kehao Miao, Shijue Huang, Zhaochen Su, Zhitao He, Xinyu Geng, Jipeng Zhang, Yixin Cao, Yi R. Fung.
+% - RPG: Review-Paper Grounding via Paper-Specificity Scoring for LLMs Review Detection. Jiahao Ying, Mingbao Lin, Qianru Sun, Yixin Cao.
 - Thinking Traps in Long Chain-of-Thought: A Measurable Study and Trap-Aware Adaptive Restart. chenkang, Fan Yu, Junjie Nian, SIHAN ZHAO, Zhuoka Feng, Zijun Yao, wang heng, Yu Minshen, Yixin Cao.
+% - CoDiQ: Test-Time Scaling for Controllable Difficult Question Generation. Zhongyuan Peng, Caijun Xu, Changyi Xiao, Shibo Hong, Ge Zhang, Wenhao Huang, Yixin Cao.
+% - Instruction-Driven Presentation Generation: Benchmark, Unified Evaluation, and Agent-Based Methods. Bo Zhao, MaoshengPang, Chen Zhang, Yixin Cao, Huan Yang, Wei Ji.
+% - Reinforcement Learning with Conditional Expectation Reward. Changyi Xiao, Caijun Xu, Yixin Cao.
+% - DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model. Shibo Hong, Boxian Ai, Jun Kuang, Wei Wang, FengJiao Chen, Zhongyuan Peng, Chenhao Huang, Yixin Cao.
+% - NEX: Neuron Explore–Exploit Scoring for Label-Free Chain-of-Thought Selection and Model Ranking. chenkang, Zhuoka Feng, SIHAN ZHAO, Kai Xiong, Junjie Nian, Yaoning Wang, Changyi Xiao, Yixin Cao
+% - Beyond Literal Translation: Evaluating Cultural Effectiveness in Social Media UGC. Linjuan Wu, Ruiqi Zhang, Xinze Lyu, Ye Guo, Daoxin Zhang, Zhe Xu, Yao Hu, Yixin Cao, Yongliang Shen, Weiming Lu.
+% - GAM-RAG: Gain-Adaptive Memory for Evolving Retrieval in Retrieval-Augmented Generation. Yifan Wang, Mingxuan Jiang, Zhihao Sun, Yixin Cao, Yicun Liu, Keyang Chen, Guangnan Ye, Hongfeng Chai.
 
 ## 2026
 - FRABench and UFEval: Unified Fine-grained Evaluation with Task and Aspect Generalization. Shibo Hong, Jiahao Ying, Haiyuan Liang, Mengdi Zhang, Jun Kuang, Jiazheng Zhang, **Yixin Cao**. ICLR2026.
